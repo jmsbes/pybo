@@ -1,0 +1,9 @@
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+common/__pycache__/__init__.cpython-312.pyc
+common/__pycache__/admin.cpython-312.pyc
+common/__pycache__/apps.cpython-312.pyc
+common/__pycache__/models.cpython-312.pyc
+common/__pycache__/urls.cpython-312.pyc
